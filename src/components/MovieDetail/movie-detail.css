@@ -1,0 +1,21 @@
+.details-wrapper {
+  padding-top: 50vh;
+  background-size: cover;
+  background-position: center 0;
+}
+
+.details-content {
+  text-align: left;
+  padding: 2rem 10%;
+  display: flex;
+  background-color: #0c2430;
+  color: white;
+}
+.details-content > div {
+  margin-left: 20px;
+}
+
+.details-content img {
+  position: relative;
+  top: -5rem;
+}

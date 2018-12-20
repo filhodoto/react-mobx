@@ -1,0 +1,6 @@
+/* Simple, not very accurate center positioning*/
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 48%;
+}
